@@ -58,6 +58,19 @@ Confirme em Configuração do Robô que o sensor 3 = “sensor de cor” e o sen
 
 - Avança até chegar à palavra FIM, onde encerrará seu percurso.
 
+
+# Resolucão
+
+![Captura de tela de 2025-05-08 15-13-56](https://github.com/user-attachments/assets/555bafa8-d760-4c71-be15-103113739cd7)
+
+
+
+
+
+
+
+
+
 # Projeto 2 Labirinto
 ![3](https://github.com/user-attachments/assets/e46d7f6e-c4fd-46db-adea-7a9c18afb8d6)
 
@@ -117,6 +130,11 @@ INÍCIO
 
 FIM
 
+# Resolução
+
+![Captura de tela de 2025-05-08 15-12-56](https://github.com/user-attachments/assets/cedcf6e4-0402-4c4c-aa30-83752e44f0cb)
+
+
 # Projeto 3 Sumo
 ![4](https://github.com/user-attachments/assets/6784f782-9491-4b6f-ad5d-9f80b56ae677)
 
@@ -137,6 +155,11 @@ Esse processo deve se repetir até que o oponente seja retirado completamente da
 - 2 motores (um para cada roda)
 
 - 1 sensor de cor
+
+
+# Resolução
+
+![Captura de tela de 2025-05-08 15-14-57](https://github.com/user-attachments/assets/bbe7b9fa-cfca-4279-add1-e5c691180ef0)
 
 
 
